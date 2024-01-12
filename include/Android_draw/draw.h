@@ -19,7 +19,7 @@
 #include <cstring>
 #include <cerrno>
 #include <android/native_window.h>
-#include <Egl/eglext.h>
+#include <EGL/eglext.h>
 #include <GLES3/gl3platform.h>
 #include <GLES3/gl3ext.h>
 #include <GLES3/gl32.h>

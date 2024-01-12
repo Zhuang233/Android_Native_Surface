@@ -7,7 +7,7 @@ set(BUILD_OPENCV OFF)
 set(BUILD_HV OFF)
 
 # 设置NDK路径
-set(NDK_PATH C:/MDK/android-ndk-r20b)
+set(NDK_PATH /home/zbw/software/android-ndk-r20b)
 
 ##################### Android设置 #####################
 set(CMAKE_SYSTEM_NAME ANDROID) # 设置目标编译平台参数 Android
